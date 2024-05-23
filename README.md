@@ -4,7 +4,7 @@
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/0f1fd382-6ccc-4e11-9a56-1c9150daa561)
 
-Далее, нужно оставить IPv4 Method, DNS и Routes в автоматический режим
+Далее, нужно поставить IPv4 Method, DNS и Routes в автоматический режим
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/7d9b0d40-7b1e-475d-b3d0-359e1cd4add4)
 
