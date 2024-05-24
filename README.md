@@ -62,7 +62,7 @@ https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
 
 После этого, монтируем наш ISO-образ
 
-![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/d7be546b-40ac-4b76-86d0-0ca2d2bd6c64)
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/96857004-7355-4944-a992-e1282ee19a03)
 
 Проверяем, что образ успешно смонтирован
 
