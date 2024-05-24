@@ -58,15 +58,15 @@ https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
 
 ![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/deec34ad-83d8-4d23-93f9-e8ff5bf26c01)
 
-![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/73ad891e-25fb-496f-a7da-f8038211fc9a)
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/7b8ecb43-5fee-484e-b498-d9e93f5aa6c3)
 
 После этого, монтируем наш ISO-образ
 
-![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/96857004-7355-4944-a992-e1282ee19a03)
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/53d44c6c-47b6-41b2-be5d-7e8796acd998)
 
 Проверяем, что образ успешно смонтирован
 
-![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/1f8909c7-291a-46ea-8cca-cfa605fcc5a1)
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/9669c27c-ea9d-4e6a-893d-45269a95e374)
 
 # 5 задание.
 Для начала, проверям, что у нашего пользователя нет прав.
