@@ -1,4 +1,7 @@
 # Modul4
+https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
+
+- ссылка на гайд Ливенцева
 # 1 задание.
 Для начала, нужно зайти в настройки
 
@@ -10,7 +13,7 @@
 
 На этои этапе, настройка dhcp закончнена.
 
-2 задание.
+# 2 задание.
 Заходим в терминал. Обзор - все приложения - терминал
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/21ea7a32-8f44-4558-8ba1-40efe28aedf2)
@@ -34,7 +37,7 @@
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/b7cd1ad8-4386-4c85-815a-2ff5ce08a3d4)
 
 
-3 задание.
+# 3 задание.
 Заходим в настройки - пользователи - разблокировать
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/0b84c8b5-6c54-4e2f-a959-641769341603)
@@ -47,7 +50,7 @@
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/c6427e62-8c0b-436d-b87e-896bce4fbc87)
 
-4 задание.
+# 4 задание.
 Подключаем любой iso-образв DVD-привод. И проверяем, что он подключиося
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/077a0268-adcf-4233-8b71-b9b7d3cb8915)
@@ -64,7 +67,7 @@
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/1f8909c7-291a-46ea-8cca-cfa605fcc5a1)
 
-5 задание.
+# 5 задание.
 Для начала, проверям, что у нашего пользователя нет прав.
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/dcc8ccbe-59ca-4621-9c20-1e7464257509)
@@ -77,7 +80,7 @@
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/d37be3ff-038b-439b-a310-52eeb1c90916)
 
-6 задание.
+# 6 задание.
 Теперь создаем баннер с определенной информацией.
 Для начала создаем сам файл.
 
