@@ -119,3 +119,32 @@ https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/002b60d0-0824-41e5-9ac1-9ec7a00873b5)
 
+# Создание raid-массива 5 
+
+Для начала, добавляем на BR-SRV 5 дисков и ставим обьем в 1 ГБ
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/4c1b5313-05cc-4582-b186-61365b8a0630)
+
+Потом устанавливаем утилиту mdadm
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/3e99dc06-ba5d-44a3-96ce-12f82723b97c)
+
+Далее, смотрим название дисков и разделов
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/f7c4409b-9ae9-454c-893e-b335a0777d78)
+
+Готовим носители
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/af8a2cc4-582e-418e-bdf5-664eb34fed2d)
+
+Удаляем старые данные
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/bc15efa1-4361-415c-ba5f-3005d4d7758f)
+
+Создаем raid-массив
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/9459f3df-bbeb-4de1-9e91-c9e1c4800fb2)
+
+Проверяем, что raid-массив создан командой lsblk
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/3b93142b-2b4b-4906-b8bd-cae490cc7bce)
