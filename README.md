@@ -53,7 +53,8 @@ https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
 # 4 задание.
 Подключаем любой iso-образв DVD-привод. И проверяем, что он подключиося
 
-![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/077a0268-adcf-4233-8b71-b9b7d3cb8915)
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/6d9c3e10-a931-4630-97d3-9f9015b914dc)
+
 
 ![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/deec34ad-83d8-4d23-93f9-e8ff5bf26c01)
 
