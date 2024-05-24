@@ -51,9 +51,14 @@ https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/c6427e62-8c0b-436d-b87e-896bce4fbc87)
 
 # 4 задание.
-Подключаем любой iso-образв DVD-привод. И проверяем, что он подключиося
+Подключаем любой iso-образв DVD-привод. И проверяем, что он подключился
 
 ![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/6d9c3e10-a931-4630-97d3-9f9015b914dc)
+
+Если вдруг не работает, нужно проверить в ESXI, подключен ли он
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/b0c0ec70-9164-4c9c-aae0-54d7cd91c3e8)
+
 
 
 ![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/deec34ad-83d8-4d23-93f9-e8ff5bf26c01)
