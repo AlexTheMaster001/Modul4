@@ -55,7 +55,7 @@ https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/077a0268-adcf-4233-8b71-b9b7d3cb8915)
 
-![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/e7462405-239c-4356-95a0-fd9c9b49fb31)
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/deec34ad-83d8-4d23-93f9-e8ff5bf26c01)
 
 ![image](https://github.com/AlexTheMaster001/Modul4/assets/161127648/73ad891e-25fb-496f-a7da-f8038211fc9a)
 
