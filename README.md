@@ -160,3 +160,7 @@ mcedit /etc/openssh/sshd_config
 Находим строчку Banner, удаляем знак # в начале строки и вмсетсо надписи none пишим /etc/issue.net
 
 # Создание GRE-тоннеля между HQ-R и BR-R
+На BR-R
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/c31ff38b-e143-4914-93d5-9c057076d759)
+
