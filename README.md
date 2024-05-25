@@ -148,3 +148,12 @@ https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
 Проверяем, что raid-массив создан командой lsblk
 
 ![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/3b93142b-2b4b-4906-b8bd-cae490cc7bce)
+
+
+# Создание баннера при подключении к HQ-SRV по SSH
+На HQ-SRV необходимо прописать следующие команды
+mcedit /etc/issue.net
+
+mcedit /etc/openssh/sshd_config
+
+Находим строчку Banner, удаляем знак # в начале строки и вмсетсо надписи none пишим /etc/issue.net
