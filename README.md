@@ -160,7 +160,24 @@ mcedit /etc/openssh/sshd_config
 Находим строчку Banner, удаляем знак # в начале строки и вмсетсо надписи none пишим /etc/issue.net
 
 # Создание GRE-тоннеля между HQ-R и BR-R
-На BR-R
+Для начала, нужно создать папки конфигурации на обоих роутерах
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/e7a7514e-0924-4ce7-9e04-1ce30c3d18a1)
+
+Затем заходим в этот файл
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/6fb8c53c-64d0-4a52-a506-6d84e68974a6)
+
+И вносим изменения, как на фото ниже
+
+На BR-R:
 
 ![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/c31ff38b-e143-4914-93d5-9c057076d759)
 
+На HQ-R:
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/bf06f085-9888-4361-8b80-7bce28b09750)
+
+Проверяется работа GRE-тоннеля командой ping
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/d5784241-dafe-4d62-9aab-ae07b5d8115a)
