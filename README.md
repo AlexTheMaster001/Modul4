@@ -152,8 +152,11 @@ https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
 
 # Создание баннера при подключении к HQ-SRV по SSH
 На HQ-SRV необходимо прописать следующие команды
+
 mcedit /etc/issue.net
 
 mcedit /etc/openssh/sshd_config
 
 Находим строчку Banner, удаляем знак # в начале строки и вмсетсо надписи none пишим /etc/issue.net
+
+# Создание GRE-тоннеля между HQ-R и BR-R
