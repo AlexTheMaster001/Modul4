@@ -1,5 +1,5 @@
 ![айпи](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/36deb43c-338d-4b31-ad51-93b957ff155d)
-![айпи](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/36deb43c-338d-4b31-ad51-93b957ff155d)
+
 
 
 
