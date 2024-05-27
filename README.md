@@ -193,6 +193,11 @@ mcedit /etc/openssh/sshd_config
 
 # HQ-R DHCPD.CONF
 
+Чтобы зайти в конфиг, прописываем
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/5107ee03-97f1-417d-8eba-7d8fb37e4bf3)
+
+
 ![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/70e2fbf6-4d44-46fb-8ac7-2cbcfcd83961)
 
 
