@@ -1,5 +1,6 @@
-![image_2024-05-24_12-28-57](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/5abe256a-8a50-4f8e-8334-cf66d8f5db18)
-![image_2024-05-24_12-28-57](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/5abe256a-8a50-4f8e-8334-cf66d8f5db18)
+![айпи](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/36deb43c-338d-4b31-ad51-93b957ff155d)
+![айпи](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/36deb43c-338d-4b31-ad51-93b957ff155d)
+
 
 
 # Modul4
