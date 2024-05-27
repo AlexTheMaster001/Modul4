@@ -186,3 +186,8 @@ mcedit /etc/openssh/sshd_config
 Проверяется работа GRE-тоннеля командой ping
 
 ![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/d5784241-dafe-4d62-9aab-ae07b5d8115a)
+
+# Модуль 3 задание 3. Настройка SSH
+
+![photo_2024-05-27_15-14-51](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/65b8040f-8194-41f2-8d8d-7baecf400044)
+
