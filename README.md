@@ -1,3 +1,7 @@
+
+![image_2024-05-24_12-28-57](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/32968c85-a332-4139-859e-e76df071977e)
+![image_2024-05-24_12-28-57](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/32968c85-a332-4139-859e-e76df071977e)
+
 # Modul4
 https://github.com/ItsLiventsev/NetSys_Demo_2024/blob/main/README.md
 
