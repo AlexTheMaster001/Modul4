@@ -191,3 +191,8 @@ mcedit /etc/openssh/sshd_config
 
 ![photo_2024-05-27_15-14-51](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/65b8040f-8194-41f2-8d8d-7baecf400044)
 
+# HQ-R DHCPD.CONF
+
+![image](https://github.com/AlexTheMaster001/Modul4_Demo/assets/161127648/70e2fbf6-4d44-46fb-8ac7-2cbcfcd83961)
+
+
